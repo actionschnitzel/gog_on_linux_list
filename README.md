@@ -1,28 +1,27 @@
 ![Header](https://github.com/actionschnitzel/gog_on_linux_list/blob/main/104-3ed61720b8c4dc39b3009ade68026ea6775238d7.png?raw=true)
 
 
-**Eine (kleine) Liste von GOG-Games, die unter Linux getestet wurden. Wenn ihr Erfahrungen mit GOG-Games gemacht habt oder Tweaks dazu habt, könnt ihr sie** [**hier**](https://forum.linuxguides.de/index.php?thread/5566-retrogaming-mit-g-ood-o-ld-g-ames-und-bottles/&postID=79914#post79914) **posten, und ich nehme sie in die Tabelle auf.**
+
 
 *   **Wenn ein Spiel nicht funktioniert steht es dabei, ansonsten ist alles gut.**
-*   wine-GE**,** proton-GE **und** lutris-wine **können über** [**Lutris**](https://lutris.net/downloads) **,** [**Heroic**](https://flathub.org/apps/com.heroicgameslauncher.hgl) **und** [**proton-up-Qt**](https://flathub.org/apps/net.davidotek.pupgui2) **installiert werden**
-*   **Spiele, die in Deutschland von der** [**BPjM**](https://www.bzkj.de/) **indiziert wurden, werden hier nicht gelistet**
-*   **Suche mit** STRG + F
-*   **Liste wird noch verbessert ![;-)](https://forum.linuxguides.de/core/images/smilies/emojione/1f609.png)** 
-
+*   Get `wine-GE`,`proton-GE` & `lutris-wine`  via [**Lutris**](https://lutris.net/downloads) , [**Heroic**](https://flathub.org/apps/com.heroicgameslauncher.hgl)  &  [**proton-up-Qt**](https://flathub.org/apps/net.davidotek.pupgui2) 
+*   **Search:** STRG + F
+*   **Liste will be improved !** ;-)
+___
 **Tipp:** Widescreen
 
-**Generelles Vorgehen bei Spielen mit der alten "Quake-Engine"**
+**For "Quake-Engine" Games**
 
-`.cfg`-File im Verzeichnis suchen und Parameter ändern.
+Find `.cfg`-File and change:
 ```
 seta r\_mode "-1"  
 seta r\_customwidth "1920"  
 seta r\_customheight "1080"
 ```
-
+___
 ## Getestete Spiel
 
-| Spiel | Wine/Native | Spielbar | Fix/Tweak |     |
+| Game | Wine/Native | Status | Fix/Tweak |     |
 | --- | --- | --- | --- | --- |
 | **A Plague Tale: Innocence** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE \| Getestet mit Heroic |
 | **Alfred Hitchcock - Vertigo** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |
