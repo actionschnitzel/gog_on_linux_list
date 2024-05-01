@@ -24,9 +24,9 @@ ___
 | --- | --- | --- | --- | --- |
 | **A Plague Tale: Innocence** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE \| Tested on Heroic |
 | **Alfred Hitchcock - Vertigo** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |
-| **Alien Breed: Impact** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks    `/Alien Breed Impact/binaries/windows/UE3Redist.exe`
-| **Alien Breed 2: Assault** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks    `/Alien Breed 2: Assault/binaries/windows/UE3Redist.exe` |     |
-| **Alien Breed 3: Descent** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks    `/Alien Breed 3: Descent/binaries/windows/UE3Redist.exe` |     |
+| **Alien Breed: Impact** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks<br>`/Alien Breed Impact/binaries/windows/UE3Redist.exe`
+| **Alien Breed 2: Assault** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks<br>`/Alien Breed 2: Assault/binaries/windows/UE3Redist.exe` |     |
+| **Alien Breed 3: Descent** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks<br>`/Alien Breed 3: Descent/binaries/windows/UE3Redist.exe` |     |
 | **Agatha Christie - The ABC Murders** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Asterix & Obelix XXL 3** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Out-of-the-box |     |
 | **Asterix & Obelix XXL: Romasterd** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Out-of-the-box |     |
@@ -35,14 +35,14 @@ ___
 | **Baldur's Gate 1: Enhanced Edition** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Baldur's Gate 2: Enhanced Edition** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Beautiful Desolation** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **BioShock™** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE (**BioShock™ Remastered ist vorzuziehen wegen der besseren Grafik)** |     |
+| **BioShock™** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE  |     |
 | **BioShock™ Remastered** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **BioShock™ 2 Remastered** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE/Proton-GE \| Tested on Heroic Heroic |     |
 | **Blitzkrieg 2** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Blood Fresh Supply** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-Ge |     |
 | **BloodRayne: Terminal Cut** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE (GamePad Support) |     |
 | **Carrion** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
-| **Clive Barker's Undying** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>[Widescreen Fix von ModDB](https://www.moddb.com/mods/widescreen-high-resolutions/downloads) |     |
+| **Clive Barker's Undying** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br>[Widescreen Fix von ModDB](https://www.moddb.com/mods/widescreen-high-resolutions/downloads) |     |
 | **The Coma: Recut** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **The Coma 2: Vicious Sisters** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Control Ultimate Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
@@ -61,13 +61,13 @@ ___
 | **Desperados: Wanted Dead or Alive** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Die Siedler® 2: Gold Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Die Siedler® 3: Ultimate Collection** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
-| **Die Siedler 4: Gold Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>[Widescreen-Fix](https://www.moddb.com/games/the-settlers-iv/downloads/widescreen-fix-v10-for-gold-edition-gog)<br><br>[German-Patch](https://www.compiware-forum.de/downloads/file/298-the-settlers-iv-gold-edition-german-patch/) |     |
+| **Die Siedler 4: Gold Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br>[Widescreen-Fix](https://www.moddb.com/games/the-settlers-iv/downloads/widescreen-fix-v10-for-gold-edition-gog)<br>[German-Patch](https://www.compiware-forum.de/downloads/file/298-the-settlers-iv-gold-edition-german-patch/) |     |
 | **Disco Elysium - The Final Cut** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Dishorored 2** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Disney's Hercules** | Wine | ![:thumbdown:](https://forum.linuxguides.de/core/images/smilies/emojione/1f44e.png) | KAPUTT!!!! |     |
 | **Don't Starve** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **DOOM**<br><br>**DOOM II** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br><br>GZDOOM bietet "Mouse-Look", grafische Verbesserungen und Vieles mehr. Spiel z.B. über Lutris installieren. > .WAD wie beschrieben verschieben.<br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
-| **DOOM 3**<br><br>**DOOM 3: BFG Edition** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Die Linux-Version needs glibc-Version (GLIBC\_2.38 >)<br><br>[https://lutris.net/games/doom-3-bfg-edition/](https://lutris.net/games/doom-3-bfg-edition/) |     |
+| **DOOM**<br><br>**DOOM II** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br>GZDOOM bietet "Mouse-Look", grafische Verbesserungen und Vieles mehr. Spiel z.B. über Lutris installieren. > .WAD wie beschrieben verschieben.<br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
+| **DOOM 3**<br><br>**DOOM 3: BFG Edition** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Die Linux-Version needs glibc-Version (GLIBC\_2.38 >)<br>[https://lutris.net/games/doom-3-bfg-edition/](https://lutris.net/games/doom-3-bfg-edition/) |     |
 | **DOOM 64** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Dungeons 2** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Evil West** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | **Microsoft Visual C++ not installed.**  <br>Use Wine-Tricks: `dotNetFx40\_Full\_setup.exe`, `dxwebsetup.exe`, `oalinst.exe`, `vcredist\_2015-2019\_x64.exe`,`vcredist\_x64.exe`, `xnafx40\_redist.msi` |     |
@@ -94,10 +94,10 @@ ___
 | **Hearts of Iron III** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Hedon Bloodrite** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Hellblade - Sinua's Sacrifice** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
-| **Heretic: Shadow of the Serpent Riders** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Native with GZDOOM. Moddeble<br><br>GZDOOM bietet "Mouse-Look", |     |
+| **Heretic: Shadow of the Serpent Riders** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Native with GZDOOM. Moddeble<br>GZDOOM bietet "Mouse-Look", |     |
 | **Heroes of Might and Magic® 3: Complete** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **Hexen II** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Native with Lutris br><br>[https://lutris.net/games/hexen-ii/](https://lutris.net/games/hexen-ii/) |     |
-| **Hexen: Beyond Heretic**  <br>**Hexen: Deathkings of the Dark Citadel** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Linux nativ via Lutris<br><br>GZDOOM > "Mouse-Look", <br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
+| **Hexen II** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Native with Lutris <br>[https://lutris.net/games/hexen-ii/](https://lutris.net/games/hexen-ii/) |     |
+| **Hexen: Beyond Heretic**  <br>**Hexen: Deathkings of the Dark Citadel** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Linux nativ via Lutris<br>GZDOOM > "Mouse-Look", <br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
 | **Hollow Knight** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Hotline Miami 2: Wrong Number** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Icewind Dale: Enhanced Edition** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
@@ -125,7 +125,7 @@ ___
 | **Narita Boy** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Neon Abyss** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Neverwinter Nights Diamond**  <br>**Neverwinter Nights: Enhanced Edition** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| No Man's Sky | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
+| **No Man's Sky** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Observer: System Redux** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
 | **Painkiller Black Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Pathfinder: Kingmaker** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
@@ -142,14 +142,14 @@ ___
 | **Project Zomboid** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Rain World** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Rainswept** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| Resonance | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
+| **Resonance** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Return of the Obra Dinn** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
 | **Roadwarden** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Quake** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Kann über Lutris nativ gespielt werden  <br>\+ Extreme good Graiphics-Mod (Epsilon)<br><br>[https://lutris.net/games/quake/](https://lutris.net/games/quake/) |     |
 | **Quake Enhanced** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>GamePad Support |     |
 | **Quake II**  <br>**Quake II (Original)** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Native via Lutris  <br>[https://lutris.net/games/quake-ii/](https://lutris.net/games/quake-ii/) |     |
 | **Quake 4** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
-| Shardlight | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
+| **Shardlight** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Sam & Max: Hit the Road** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Sanitarium** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **The Signifier Director's Cut** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
