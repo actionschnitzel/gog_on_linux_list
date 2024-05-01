@@ -70,7 +70,7 @@ ___
 | **DOOM 3**<br><br>**DOOM 3: BFG Edition** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Die Linux-Version braucht eine aktuelle glibc-Version (GLIBC\_2.38 >)<br><br>[https://lutris.net/games/doom-3-bfg-edition/](https://lutris.net/games/doom-3-bfg-edition/) |     |
 | **DOOM 64** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Dungeons 2** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **Evil West** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | **Microsoft Visual C++ nicht mitinstalliert.**  <br>Über Wine-Tricks: dotNetFx40\_Full\_setup.exe, dxwebsetup.exe, oalinst.exe, vcredist\_2015-2019\_x64.exe,vcredist\_x64.exe, xnafx40\_redist.msi |     |
+| **Evil West** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | **Microsoft Visual C++ not installed.**  <br>Use Wine-Tricks: dotNetFx40\_Full\_setup.exe, dxwebsetup.exe, oalinst.exe, vcredist\_2015-2019\_x64.exe,vcredist\_x64.exe, xnafx40\_redist.msi |     |
 | **Enter The Gungeon** | Linux/Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Eschalon: Book I** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Exit The Gungeon** | Linux/Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
