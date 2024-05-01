@@ -3,7 +3,6 @@
 
 
 
-*   **Wenn ein Spiel nicht funktioniert steht es dabei, ansonsten ist alles gut.**
 *   Get `wine-GE`,`proton-GE` & `lutris-wine`  via [**Lutris**](https://lutris.net/downloads) , [**Heroic**](https://flathub.org/apps/com.heroicgameslauncher.hgl)  &  [**proton-up-Qt**](https://flathub.org/apps/net.davidotek.pupgui2) 
 *   **Search:** STRG + F
 *   **List will be improved !** ;-)
