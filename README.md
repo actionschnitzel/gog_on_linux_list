@@ -148,6 +148,7 @@ ___
 | **Quake** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Kann über Lutris nativ gespielt werden  <br>\+ Extreme good Graiphics-Mod (Epsilon)<br><br>[https://lutris.net/games/quake/](https://lutris.net/games/quake/) |     |
 | **Quake Enhanced** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>GamePad Support |     |
 | **Quake II**  <br>**Quake II (Original)** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Native via Lutris  <br>[https://lutris.net/games/quake-ii/](https://lutris.net/games/quake-ii/) |     |
+| **Quake III** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE/Native(ioqueke) with Lutris <br>https://lutris.net/games/quake-iii-arena/|    |
 | **Quake 4** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Shardlight** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Sam & Max: Hit the Road** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
