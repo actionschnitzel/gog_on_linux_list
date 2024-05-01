@@ -1,6 +1,6 @@
 ![Header](https://github.com/actionschnitzel/gog_on_linux_list/blob/main/104-3ed61720b8c4dc39b3009ade68026ea6775238d7.png?raw=true)
 
-
+[Taken from my german Blog](https://forum.linuxguides.de/core/blog/index.php?entry/84-gaming-essentials-teil-4-gog-tipps-trick/)
 
 
 *   Get `wine-GE`,`proton-GE` & `lutris-wine`  via [**Lutris**](https://lutris.net/downloads) , [**Heroic**](https://flathub.org/apps/com.heroicgameslauncher.hgl)  &  [**proton-up-Qt**](https://flathub.org/apps/net.davidotek.pupgui2) 
