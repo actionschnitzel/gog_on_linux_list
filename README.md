@@ -167,6 +167,7 @@ ___
 | **Stellaris** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Stronghold HD** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Sudden Strike 4** | Linux/Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
+| **Terra Nil** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |Tested on Ubuntu     |     |
 | **Terraria** | Linux/Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **The Suicide of Rachel Foster** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
 | **The Elder Scrolls III: Morrowind GOTY Edition** | Wine/Linux |     | Läst sich mit Lutris nativ spielen([OpenMW](https://openmw.org/))  <br>[https://lutris.net/games/the-elder-scrolls-iii-morrowind-goty-edition/](https://lutris.net/games/the-elder-scrolls-iii-morrowind-goty-edition/) |     |
