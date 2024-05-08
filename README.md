@@ -18,7 +18,7 @@ seta r\_customwidth "1920"
 seta r\_customheight "1080"
 ```
 ___
-## Getestete Spiel
+## Tested Games
 
 | Game | Wine/Native | Status | Fix/Tweak |     |
 | --- | --- | --- | --- | --- |
@@ -66,8 +66,8 @@ ___
 | **Dishorored 2** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Disney's Hercules** | Wine | ![:thumbdown:](https://forum.linuxguides.de/core/images/smilies/emojione/1f44e.png) | KAPUTT!!!! |     |
 | **Don't Starve** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **DOOM** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br>GZDOOM bietet "Mouse-Look", grafische Verbesserungen und Vieles mehr. Spiel z.B. über Lutris installieren. > .WAD wie beschrieben verschieben.<br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
-| **DOOM II** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br>GZDOOM bietet "Mouse-Look", grafische Verbesserungen und Vieles mehr. Spiel z.B. über Lutris installieren. > .WAD wie beschrieben verschieben.<br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
+| **DOOM** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br>GZDOOM offers "Mouse-Look", <br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
+| **DOOM II** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Mit GZDOOM (.WAD Files nach ~/.config/gzdoom/ kopieren)<br>GZDOOM offers "Mouse-Look", <br><br>[https://zdoom.org/downloads](https://zdoom.org/downloads) |     |
 | **DOOM 3**<br><br>**DOOM 3: BFG Edition** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Die Linux-Version needs glibc-Version (GLIBC\_2.38 >)<br>[https://lutris.net/games/doom-3-bfg-edition/](https://lutris.net/games/doom-3-bfg-edition/) |     |
 | **DOOM 64** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Dungeons 2** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
@@ -146,7 +146,7 @@ ___
 | **Resonance** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Return of the Obra Dinn** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
 | **Roadwarden** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **Quake** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Kann über Lutris nativ gespielt werden  <br>\+ Extreme good Graiphics-Mod (Epsilon)<br><br>[https://lutris.net/games/quake/](https://lutris.net/games/quake/) |     |
+| **Quake** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Nativ with Lutris  <br>\+ Extreme good Graiphics-Mod (Epsilon)<br><br>[https://lutris.net/games/quake/](https://lutris.net/games/quake/) |     |
 | **Quake Enhanced** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>GamePad Support |     |
 | **Quake II**  <br>**Quake II (Original)** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br><br>Native via Lutris  <br>[https://lutris.net/games/quake-ii/](https://lutris.net/games/quake-ii/) |     |
 | **Quake III** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE/Native(ioqueke) with Lutris <br>https://lutris.net/games/quake-iii-arena/|    |
@@ -155,7 +155,7 @@ ___
 | **Sam & Max: Hit the Road** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Sanitarium** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **The Signifier Director's Cut** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
-| **Soldier of Fortune II: Double Helix** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE-8-26<br><br>[Widescreen-Fix](https://www.moddb.com/games/soldier-of-fortune-ii/downloads/sof2-widescreen-fov-and-hud-fix) (Dateien in base und Main-Ordner ersetzen)<br><br>drive\_c/GOG Games/Soldier of Fortune 2/base/sof2sp.cfg<br><br>\><br><br>seta r\_mode "-1"  <br>seta r\_customheight "1080"  <br>seta r\_customwidth "1920" |     |
+| **Soldier of Fortune II: Double Helix** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE-8-26<br><br>[Widescreen-Fix](https://www.moddb.com/games/soldier-of-fortune-ii/downloads/sof2-widescreen-fov-and-hud-fix) (Replace files in Mainfolder and `base`)<br><br>drive\_c/GOG Games/Soldier of Fortune 2/base/sof2sp.cfg<br><br>\><br><br>seta r\_mode "-1"  <br>seta r\_customheight "1080"  <br>seta r\_customwidth "1920" |     |
 | **Soma** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Starbound 1.4** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Stardew Valley** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
@@ -181,7 +181,7 @@ ___
 | **The Witcher 2: Assassins of Kings - Enhanced Edition** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Thimbleweed Park** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
 | **Torchlight 2** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |     |     |
-| **Unreal Gold** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Native via Lutris<br><br>[https://lutris.net/games/unreal-gold/](https://lutris.net/games/unreal-gold/) |     |
+| **Unreal Gold** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Nativ via Lutris<br><br>[https://lutris.net/games/unreal-gold/](https://lutris.net/games/unreal-gold/) |     |
 | **Valfaris** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Vampyre** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |     |
 | **Whispers of a Machine** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |     |
