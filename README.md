@@ -20,8 +20,8 @@ seta r\_customheight "1080"
 ___
 ## Tested Games
 
-| Game | Wine/Native | Status | Fix/Tweak |     |
-| --- | --- | --- | --- | --- |
+| Game | Wine/Native | Status | Fix/Tweak |     
+| --- | --- | --- | --- |     
 | **A Plague Tale: Innocence** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE \| Tested on Heroic |
 | **Alfred Hitchcock - Vertigo** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |
 | **Alien Breed: Impact** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | UE3Redist needs to be installed via Wine-Tricks<br>`/Alien Breed Impact/binaries/windows/UE3Redist.exe`
