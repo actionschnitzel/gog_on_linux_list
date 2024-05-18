@@ -56,6 +56,7 @@ ___
 | **Dead Cells** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
 | **Deponia 1-4** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
 | **Desperados: Wanted Dead or Alive** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
+| **Deus Ex - Mankind Divided (2016)** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE-Proton8-26 | 
 | **Die Siedler 4: Gold Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE<br>[Widescreen-Fix](https://www.moddb.com/games/the-settlers-iv/downloads/widescreen-fix-v10-for-gold-edition-gog)<br>[German-Patch](https://www.compiware-forum.de/downloads/file/298-the-settlers-iv-gold-edition-german-patch/) |  
 | **Die Siedler® 2: Gold Edition** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
 | **Die Siedler® 3: Ultimate Collection** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
@@ -73,6 +74,7 @@ ___
 | **EVERSPACE™** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
 | **Evil West** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | **Microsoft Visual C++ not installed.**  <br>Use Wine-Tricks: `dotNetFx40\_Full\_setup.exe`, `dxwebsetup.exe`, `oalinst.exe`, `vcredist\_2015-2019\_x64.exe`,`vcredist\_x64.exe`, `xnafx40\_redist.msi` |  
 | **Exit The Gungeon** | Linux/Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
+| **Factorio** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |  |  
 | **Fallout 2** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
 | **Fallout: New Vegas** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
 | **Firewatch** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
