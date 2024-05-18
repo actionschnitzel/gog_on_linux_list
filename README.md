@@ -185,7 +185,9 @@ ___
 | **Tomb Raider: Anniversary** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
 | **Torchlight 2** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
 | **Unreal Gold** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Nativ via Lutris<br><br>[https://lutris.net/games/unreal-gold/](https://lutris.net/games/unreal-gold/) |  
-| **Valfaris** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
+| **Unreal Turnament (UT99)** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Nativ via Lutris<br><br>[https://lutris.net/games/unreal-tournament/) |  
+| **Unreal Turnament 2004 (UTk4)** | Wine/Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Nativ via Lutris<br><br>[https://lutris.net/games/unreal-tournament-2004/) |  
+| **Valfaris** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |
 | **Vampyre** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE |  
 | **Wasteland 3** | Linux | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) |    
 | **Whispers of a Machine** | Wine | ![ok.png?raw=true](https://github.com/actionschnitzel/tingsandstuff/blob/main/ok.png?raw=true) | Wine-GE bzw. Proton-GE |  
